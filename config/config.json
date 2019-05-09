@@ -1,0 +1,9 @@
+{
+  "production": {
+    "username": "adw3XdqmyO",
+    "password": "mc2q8EMHNq",
+    "database": "adw3XdqmyO",
+    "host": "remotemysql.com",
+    "dialect": "mysql"
+  }
+}
